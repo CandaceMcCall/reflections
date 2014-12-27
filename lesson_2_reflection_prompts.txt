@@ -22,3 +22,4 @@ Will add branch to master.   Diagram makes sure we see how structure changes and
 
 What are the pros and cons of automatic merging vs. always doing merges
 manually?
+Automatic merging is good when adding new feature to part of master that was not being changed.   Manually merge more effort.
