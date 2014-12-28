@@ -14,8 +14,7 @@ on GitHub, you can see the original.  Branch is addition to repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+Convenience.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
